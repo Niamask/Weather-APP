@@ -11,5 +11,5 @@
 - master.css
 - main.js
 - weather graphic icons in the images subfolder
-- A file containing latitudes and longitudes for major European cities
+- A file containing latitudes and longitudes for major European cities.
 
